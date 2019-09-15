@@ -12,7 +12,7 @@ spring:
 eureka:
   client:
     service-url:
-      defaultZone: http://yys.server1.com:1001/eureka/
+      defaultZone: http://yys.server2.com:1002/eureka/
 ---
 server:
   port: 6002
